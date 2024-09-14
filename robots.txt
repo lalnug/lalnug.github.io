@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lalnug.github.io/qJM/sitemap.qJM.gz
